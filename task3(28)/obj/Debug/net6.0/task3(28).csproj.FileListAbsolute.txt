@@ -1,0 +1,15 @@
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\bin\Debug\net6.0\task3(28).exe
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\bin\Debug\net6.0\task3(28).deps.json
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\bin\Debug\net6.0\task3(28).runtimeconfig.json
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\bin\Debug\net6.0\task3(28).dll
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\bin\Debug\net6.0\task3(28).pdb
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).csproj.AssemblyReference.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).AssemblyInfoInputs.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).AssemblyInfo.cs
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).csproj.CoreCompileInputs.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).dll
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\refint\task3(28).dll
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).pdb
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\task3(28).genruntimeconfig.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с# семинары\seminar4\task3(28)\obj\Debug\net6.0\ref\task3(28).dll
